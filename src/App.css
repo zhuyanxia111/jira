@@ -1,0 +1,14 @@
+html {
+  /* 浏览器默认字号是16px
+  16*62.5%=10
+  */
+  font-size: 62.5%;
+}
+html body #root .App {
+  min-height: 100vh;
+  overflow: hidden;
+}
+#root {
+  height: 100vh;
+  overflow: hidden;
+}
